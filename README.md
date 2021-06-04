@@ -9,7 +9,7 @@
 -->
     
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm Sudhan and I am 13 year old. I mostly use C# and Javascript as a primary language to code with projects. You can find more at https//ggs-network.de</p>
+<p align="center">Hello I'm Sudhan and I am 13 year old. I mostly use C# and Javascript as a primary language to code with projects. You can find more at <a href="https://ggs-network.de">https://ggs-network.de</a></p>
 
 ## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
