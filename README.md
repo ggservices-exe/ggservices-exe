@@ -9,14 +9,14 @@
 -->
     
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm Otho and I am 13 year old. I mostly use C#, JavaScript and php as a primary language to code with projects. You can find more at <a href="https://ggs-network.de">https://ggs-network.de</a></p>
+<p align="center">Hello I'm Otho and I am 14 year old. I mostly use C#, JavaScript and php as a primary language to code with projects. You can find more at <a href="https://ggs-network.de">https://ggs-network.de</a></p>
 
 ## Hello, Im Otho <img src="WaveIcon.gif" width="30px">
 
 ```js
 const Otho = {
     Age: 13,
-    Description: "Hello, My name is Otho 😉. I am 13 y/o, I do a lot of programming outside of school...",
+    Description: "Hello, My name is Otho 😉. I am 14 y/o, I do a lot of programming outside of school...",
     FavouriteLanguage: "Javascript", "C#", "Python",
     FavouriteThings: ["GitHub <3", "Visual Studio Code", "Visual Studio 2019", "NodeJS"]
 }; 
