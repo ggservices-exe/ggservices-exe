@@ -15,7 +15,7 @@
 
 ```js
 const Otho = {
-    Age: 13,
+    Age: 14,
     Description: "Hello, My name is Otho 😉. I am 14 y/o, I do a lot of programming outside of school...",
     FavouriteLanguage: "Javascript", "C#", "Python",
     FavouriteThings: ["GitHub <3", "Visual Studio Code", "Visual Studio 2019", "NodeJS"]
