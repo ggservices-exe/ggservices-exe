@@ -21,3 +21,10 @@ const Otho = {
     FavouriteThings: ["GitHub <3", "Visual Studio Code", "Visual Studio 2019", "NodeJS", "MySQL"]
 }; 
 ```
+
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ggservices-exe&layout=compact&theme=midnight-purple)](https://github.com/ggservices-exe)
+
+[![TWITTER](https://img.shields.io/twitter/follow/76.otho?label=Twitter&logo=twitter&style=flat)](https://www.twitter.com/76.otho)
+[![GITHUB](https://img.shields.io/github/followers/ggservices-exe?label=GitHub&logo=github&style=flat)](https://github.com/ggservices-exe)  
+[![INSTAGRAM](https://img.shields.io/instagram/followers/d76.otho?label=Instagramb&logo=github&style=flat)](https://instagram.com/76.otho)  
