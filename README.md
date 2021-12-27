@@ -25,6 +25,4 @@ const Otho = {
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggservices-exe&layout=compact&theme=midnight-purple)](https://github.com/ggservices-exe)
 
-[![TWITTER](https://img.shields.io/twitter/follow/76.otho?label=Twitter&logo=twitter&style=flat)](https://www.twitter.com/76.otho)
 [![GITHUB](https://img.shields.io/github/followers/ggservices-exe?label=GitHub&logo=github&style=flat)](https://github.com/ggservices-exe)  
-[INSTAGRAM](https://instagram.com/76.otho)  
